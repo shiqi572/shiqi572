@@ -2,7 +2,7 @@
 - 👀 I’m interested in python / matlab/ machine learning /deep learning 
 - 🌱 I’m currently learning GIS, HYDROLOGY. 
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...don't reach me
+- 📫 How to reach me ...
 
 <!---
 shiqi572/shiqi572 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
