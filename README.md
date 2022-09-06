@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shiqi
-- 👀 I’m interested in python / matlab/ machine learning /deep learning 
-- 🌱 I’m currently learning GIS, HYDROLOGY. 
+- 👀 I’m interested in python / matlab/ machine learning /remote sensing/ groundwater/
+- 🌱 I’m currently learning Hydrosystems Engineering
 - 💞️ I’m looking to collaborate on 
 - 📫 email: swei46@asu.edu
 
